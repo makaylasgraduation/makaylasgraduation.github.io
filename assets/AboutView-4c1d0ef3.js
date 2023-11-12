@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as _}from"./index-ed1c7db2.js";const s={},c={class:"about"},n=_("p",null,"I'm graduating!!",-1),a=[n];function r(i,d){return t(),o("div",c,a)}const l=e(s,[["render",r]]);export{l as default};
